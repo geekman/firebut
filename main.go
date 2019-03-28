@@ -364,8 +364,8 @@ The following global flags, placed before <action>, are supported:
 	}
 
 	conf := &oauth2.Config{
-		ClientID:     "701427408010-kfoluqkdcfnnc2tj8akgae8lah1eco6h.apps.googleusercontent.com",
-		ClientSecret: "Tx1c3vGyFub6d4thCvSTlEcb",
+		ClientID:     "283739587601-ckp2ku0e8hp25naasocfk60c9vkslgkf.apps.googleusercontent.com",
+		ClientSecret: "JLaVYR1q8RBuIP5Sd4iH9Gf4",
 
 		RedirectURL: "",
 		Endpoint:    google.Endpoint,
